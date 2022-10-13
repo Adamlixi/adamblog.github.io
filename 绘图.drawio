@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T10:44:49.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QI013V91qJ4_JZRMpDzM" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T03:57:11.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iyJA40xyvwr_g3QDq_bv" version="20.4.0" type="github">
   <diagram id="HUPfTMvr-G08IstzgSRJ" name="第 1 页">
-    <mxGraphModel dx="591" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="2030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,28 +28,14 @@
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-2" value="Time" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-26" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySaaE-eIBbRKnYDDOl5w-4" target="ySaaE-eIBbRKnYDDOl5w-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-28" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySaaE-eIBbRKnYDDOl5w-4" target="ySaaE-eIBbRKnYDDOl5w-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580.2407467619691" y="-44.69784581571594" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-4" value="Register" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="280" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-48" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ySaaE-eIBbRKnYDDOl5w-5" target="ySaaE-eIBbRKnYDDOl5w-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-51" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ySaaE-eIBbRKnYDDOl5w-5" target="ySaaE-eIBbRKnYDDOl5w-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-5" value="&lt;span style=&quot;font-weight: 400; background-color: initial; font-family: TimesNewRomanPSMT; font-size: 11pt;&quot;&gt;&lt;br&gt;record the time of the first meal and the time of the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400; background-color: initial; font-family: TimesNewRomanPSMT; font-size: 11pt;&quot;&gt;last meal&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;font-weight: 400;&quot; title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="40" width="260" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-54" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ySaaE-eIBbRKnYDDOl5w-11" target="ySaaE-eIBbRKnYDDOl5w-53">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-11" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 400; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;report of the days that fulfill&lt;/p&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="270" y="260" width="200" height="60" as="geometry" />
@@ -57,25 +43,10 @@
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-14" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 400; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;publish in Instagram&lt;/p&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="244.5" y="160" width="216" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-55" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ySaaE-eIBbRKnYDDOl5w-15" target="ySaaE-eIBbRKnYDDOl5w-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-15" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 400; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;show a chart&lt;/p&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-25" value="enter personal details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="577.5" y="-135" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-59" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySaaE-eIBbRKnYDDOl5w-30" target="ySaaE-eIBbRKnYDDOl5w-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-30" value="submit details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="60" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-49" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ySaaE-eIBbRKnYDDOl5w-35" target="ySaaE-eIBbRKnYDDOl5w-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-52" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ySaaE-eIBbRKnYDDOl5w-35" target="ySaaE-eIBbRKnYDDOl5w-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-35" value="&lt;br&gt;		&lt;br&gt;	&lt;br&gt;&lt;span style=&quot;font-family: TimesNewRomanPSMT; font-size: 11pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;record the weight&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;ol style=&quot;list-style-type: none&quot;&gt;&lt;li&gt;&lt;br&gt;						&lt;/li&gt;&lt;br&gt;					&lt;/ol&gt;&lt;br&gt;				&lt;/div&gt;&lt;br&gt;			&lt;/div&gt;&lt;br&gt;		&lt;/div&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
@@ -86,12 +57,6 @@
         </mxCell>
         <mxCell id="ySaaE-eIBbRKnYDDOl5w-46" value="Record Information" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="280" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-53" value="&lt;br&gt;	&lt;br&gt;	&lt;br&gt;		&lt;div title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;ol style=&quot;list-style-type: none&quot;&gt;&lt;br&gt;						&lt;li&gt;&lt;br&gt;							&lt;p&gt;&lt;span style=&quot;font-size: 11.000000pt; font-family: &#39;TimesNewRomanPSMT&#39;&quot;&gt;displayed to the registered user&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;						&lt;/li&gt;&lt;br&gt;					&lt;/ol&gt;&lt;br&gt;				&lt;/div&gt;&lt;br&gt;			&lt;/div&gt;&lt;br&gt;		&lt;/div&gt;" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="520" y="310" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ySaaE-eIBbRKnYDDOl5w-57" value="record information" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="65" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
