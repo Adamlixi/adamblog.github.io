@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T14:36:38.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_2DSTiKo4aW1rW84EeuE" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T14:37:49.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zOO78ncZ2-DjeWjNb4e5" version="20.4.0" type="github">
   <diagram id="v4YBKZwWyJ0v4C3TJx6I" name="第 1 页">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rUyr71g_MI1RmwhOUXKb-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUyr71g_MI1RmwhOUXKb-1" target="rUyr71g_MI1RmwhOUXKb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUyr71g_MI1RmwhOUXKb-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rUyr71g_MI1RmwhOUXKb-1" target="rUyr71g_MI1RmwhOUXKb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUyr71g_MI1RmwhOUXKb-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUyr71g_MI1RmwhOUXKb-1" target="rUyr71g_MI1RmwhOUXKb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUyr71g_MI1RmwhOUXKb-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUyr71g_MI1RmwhOUXKb-1" target="rUyr71g_MI1RmwhOUXKb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rUyr71g_MI1RmwhOUXKb-1" value="player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="30" height="60" as="geometry" />
         </mxCell>
@@ -11,7 +23,7 @@
           <mxGeometry x="310" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rUyr71g_MI1RmwhOUXKb-3" value="Nature" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="340" width="30" height="60" as="geometry" />
+          <mxGeometry x="160" y="351" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rUyr71g_MI1RmwhOUXKb-4" value="Time" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="30" height="60" as="geometry" />
@@ -21,6 +33,9 @@
         </mxCell>
         <mxCell id="rUyr71g_MI1RmwhOUXKb-10" value="Move" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rUyr71g_MI1RmwhOUXKb-15" value="处理事件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-30" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
