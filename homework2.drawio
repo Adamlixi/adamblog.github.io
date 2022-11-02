@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T02:22:24.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZF0a57i1uT_rENzkYnTJ" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T02:22:48.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fo-B49AbwSqYlDE7u8kH" version="20.4.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="946" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
         <mxCell id="iF3UCzAxrgqFnySbWX2L-29" value="Dashboard" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="80" width="100" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-30" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-30" value="Profile" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1307" y="80" width="100" height="420" as="geometry" />
         </mxCell>
       </root>
