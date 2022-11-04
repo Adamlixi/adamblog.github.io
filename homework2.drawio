@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T08:24:42.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MU8TmW6hZu_sPC7PhEaT" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T08:54:34.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rnKnHrmaZ9dMnT-lZiqH" version="20.4.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1901" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -386,7 +386,7 @@
         <mxCell id="iF3UCzAxrgqFnySbWX2L-125" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-91" target="iF3UCzAxrgqFnySbWX2L-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-127" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-91" target="iF3UCzAxrgqFnySbWX2L-126">
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-127" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-91" target="iF3UCzAxrgqFnySbWX2L-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-91" value="idle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -414,56 +414,50 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-100" value="clicks the comfirmation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iF3UCzAxrgqFnySbWX2L-99">
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-100" value="clicks the comfirmation/&lt;span style=&quot;&quot;&gt;sends the&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;&quot;&gt;information&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;&quot;&gt;to create a Profile&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iF3UCzAxrgqFnySbWX2L-99">
           <mxGeometry x="-0.1965" y="1" relative="1" as="geometry">
-            <mxPoint x="-70" y="-10" as="offset" />
+            <mxPoint x="-91" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-97" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;asks for&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;confirmation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-101" target="iF3UCzAxrgqFnySbWX2L-102">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-101" target="iF3UCzAxrgqFnySbWX2L-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308.8699999999999" y="1070.1000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-101" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;sends the&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;information&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;to create a Profile&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438.87" y="1040.1000000000001" width="120" height="60" as="geometry" />
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-101" value="Pending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1040.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-102" target="iF3UCzAxrgqFnySbWX2L-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-102" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;do/shows&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;completion message&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188.87" y="1040.1000000000001" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-104" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;saving is complete&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="314.87" y="1027.1000000000001" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-107" value="[succeed]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="338.87" y="1043.1000000000001" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-112" value="enters the phone number&lt;br&gt;&amp;nbsp;and password" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-109" target="iF3UCzAxrgqFnySbWX2L-111">
-          <mxGeometry y="-30" relative="1" as="geometry">
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-112" value="enters the phone number&lt;br&gt;&amp;nbsp;and password/sends the&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;phone number and password to do&amp;nbsp;&lt;span style=&quot;&quot;&gt;authentication&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry y="-50" relative="1" as="geometry">
+            <mxPoint x="-90" y="690" as="sourcePoint" />
+            <mxPoint x="-350" y="690" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-109" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;asks for the&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;phone number and password&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-178" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-109" target="iF3UCzAxrgqFnySbWX2L-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-109" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;showing the&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;phone number and password to fill&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-111" target="iF3UCzAxrgqFnySbWX2L-113">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-111" target="iF3UCzAxrgqFnySbWX2L-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330.1300000000001" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-420" y="1070" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-115" value="sends the result to&lt;br&gt;Dashboard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iF3UCzAxrgqFnySbWX2L-114">
           <mxGeometry x="-0.0816" relative="1" as="geometry">
-            <mxPoint x="-60" as="offset" />
+            <mxPoint x="-50" y="-82" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-111" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;do/sends the&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;phone number and password to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;Profile&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-113" target="iF3UCzAxrgqFnySbWX2L-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-113" value="Finish&lt;br&gt;maintain state" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-331.13" y="1040.1000000000001" width="120" height="60" as="geometry" />
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-111" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Login&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-116" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-46.13" y="1055.1000000000001" width="30" height="30" as="geometry" />
@@ -477,43 +471,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-123" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;receive the registered user’s&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;monthly information.&lt;br&gt;[has data]&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="750" width="180" height="60" as="geometry" />
+          <mxGeometry x="40" y="750" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-131" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-124" target="iF3UCzAxrgqFnySbWX2L-116">
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-134" value="click publish/&lt;br&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;send the data to Ins&lt;/span&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-124" target="iF3UCzAxrgqFnySbWX2L-133">
+          <mxGeometry x="-0.0039" y="28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-124" target="iF3UCzAxrgqFnySbWX2L-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-134" value="click publish" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-124" target="iF3UCzAxrgqFnySbWX2L-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-124" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;displays the chart and&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;asks whether or not to publish&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;the information in Instagram&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="830" width="190" height="70" as="geometry" />
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-124" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;displays the chart and&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;asking whether or not to publish&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;the information in Instagram&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="827" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-130" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-126" target="iF3UCzAxrgqFnySbWX2L-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-126" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;displays an&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;encouraging message&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="-400" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-129" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;receive the registered user’s&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;monthly information.&lt;br&gt;[no data]&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="715" width="180" height="60" as="geometry" />
+          <mxGeometry x="-200" y="750" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-132" value="click not publish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-29" y="934" width="110" height="30" as="geometry" />
+          <mxGeometry x="-40" y="934" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-136" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-133" target="iF3UCzAxrgqFnySbWX2L-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-133" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;send the data to Ins&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188.87" y="835" width="120" height="60" as="geometry" />
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-133" value="Pending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-138" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-135" target="iF3UCzAxrgqFnySbWX2L-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-135" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;display a published message&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188.87" y="937" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="935" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-137" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;successful message&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="900" width="130" height="30" as="geometry" />
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-137" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;successful message from Ins&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="905" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-146" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-139" target="iF3UCzAxrgqFnySbWX2L-142">
           <mxGeometry relative="1" as="geometry" />
@@ -553,7 +549,12 @@
         <mxCell id="iF3UCzAxrgqFnySbWX2L-154" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-151" target="iF3UCzAxrgqFnySbWX2L-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iF3UCzAxrgqFnySbWX2L-151" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;authentication&lt;br&gt;send the result back&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-188" value="&lt;span style=&quot;&quot;&gt;send the result back&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iF3UCzAxrgqFnySbWX2L-154">
+          <mxGeometry x="-0.2592" y="-1" relative="1" as="geometry">
+            <mxPoint x="29" y="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-151" value="do/&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;authentication&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1335" y="706" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-165" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-158" target="iF3UCzAxrgqFnySbWX2L-164">
@@ -607,6 +608,27 @@
         </mxCell>
         <mxCell id="iF3UCzAxrgqFnySbWX2L-173" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1065" y="1866" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-174" value="[succeed]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="651.0000000000001" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-182" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iF3UCzAxrgqFnySbWX2L-177" target="iF3UCzAxrgqFnySbWX2L-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-177" value="Not Login" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-179" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;enters the phone number&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;and password/sends the&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;phone number and password to do&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;authentication&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="520" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-180" value="[fail]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="570.0000000000001" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-181" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-46" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iF3UCzAxrgqFnySbWX2L-183" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;saving is complete message/&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Pending%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22590%22%20y%3D%221040.0000000000002%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;sends a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;completion message&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1035" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
