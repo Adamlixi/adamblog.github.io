@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T03:57:06.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="CwEYElMHLBJASCXC3FUS" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T04:00:11.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3miG1BChj3w95SR_jXLm" version="21.1.2" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="2077" dy="-242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="0MdUZJ0Amhr4Ln2m6rTR-245" value="MortgageNFT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0MdUZJ0Amhr4Ln2m6rTR-243">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0MdUZJ0Amhr4Ln2m6rTR-246" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0MdUZJ0Amhr4Ln2m6rTR-243">
+        <mxCell id="0MdUZJ0Amhr4Ln2m6rTR-246" value="LiquidateNFT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0MdUZJ0Amhr4Ln2m6rTR-243">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0MdUZJ0Amhr4Ln2m6rTR-248" value="ERC20 Pool2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -169,8 +169,14 @@
         <mxCell id="0MdUZJ0Amhr4Ln2m6rTR-274" value="getOrder" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0MdUZJ0Amhr4Ln2m6rTR-271">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0MdUZJ0Amhr4Ln2m6rTR-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MdUZJ0Amhr4Ln2m6rTR-244" target="0MdUZJ0Amhr4Ln2m6rTR-268">
+        <mxCell id="0MdUZJ0Amhr4Ln2m6rTR-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0MdUZJ0Amhr4Ln2m6rTR-268" target="0MdUZJ0Amhr4Ln2m6rTR-244">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MdUZJ0Amhr4Ln2m6rTR-279" value="transferIntoNFT&lt;span id=&quot;docs-internal-guid-4c8c4310-7fff-1c7a-6c5f-d83ab278721c&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1005" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0MdUZJ0Amhr4Ln2m6rTR-280" value="registerNFT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1027" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
