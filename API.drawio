@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T11:50:53.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XWSuoPBKkFalkqR24vK-" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T06:56:36.504Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="31yE2pi01zLgcXNN-ReP" version="21.6.6" type="github">
   <diagram name="第 1 页" id="yqQ3hrJPulyTldEbJ_DK">
     <mxGraphModel dx="1306" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,8 +85,14 @@
         <mxCell id="-pOtgHXbaxwmbOymeWTH-40" value="hit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="487" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-pOtgHXbaxwmbOymeWTH-42" value="Redis&lt;br&gt;(Expire 1 min)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="329" y="780" width="85" height="90" as="geometry" />
+        <mxCell id="-pOtgHXbaxwmbOymeWTH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-pOtgHXbaxwmbOymeWTH-42" target="-pOtgHXbaxwmbOymeWTH-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pOtgHXbaxwmbOymeWTH-42" value="Redis&lt;br&gt;(Expire 5 min)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="329" y="800" width="85" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-pOtgHXbaxwmbOymeWTH-44" value="三方平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="815" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
